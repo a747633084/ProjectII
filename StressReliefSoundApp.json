@@ -1,5 +1,4 @@
 {
-{
     "sounds": [
         {
             "name": "Rain",
@@ -29,5 +28,5 @@
             "website": "https://pixabay.com/sound-effects/search/thunder/",
             "description": "Thunderstorm sounds are great for those who enjoy the dramatic rumble of nature to relax or sleep better."
         }
-}
+    ]
 }
