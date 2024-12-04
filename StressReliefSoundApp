@@ -1,0 +1,18 @@
+{
+  "sounds": [
+    {
+      "name": "Rain",
+      "image": "rain.jpg",
+      "file": "rainSounds.mp3",
+      "website": "https://pixabay.com/sound-effects/search/rain/",
+      "description": "Rain sounds create a calming atmosphere reminiscent of a cozy hideaway, perfect for relaxation and reflection."
+    },
+    {
+      "name": "Ocean",
+      "image": "ocean.jpg",
+      "file": "oceanSounds.mp3",
+      "website": "https://pixabay.com/sound-effects/search/ocean/",
+      "description": "The ocean sounds transport you to a serene beach setting, perfect for unwinding and meditating."
+    }
+  ]
+}
